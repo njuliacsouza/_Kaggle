@@ -5,6 +5,7 @@
   <li> 1. Introduction to Deep Learning </li>
   <ul> 
     <li> A single neuron </li>
+    <li> Deep Neural Networks </li>
   </ul>
 </ul>
 
