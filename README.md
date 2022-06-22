@@ -6,6 +6,7 @@
   <ul> 
     <li> A single neuron </li>
     <li> Deep Neural Networks </li>
+    <li> Stochastic Gradient Descent </li>
   </ul>
 </ul>
 
