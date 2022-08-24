@@ -12,5 +12,11 @@
     <li> Binary Classification </li>
   </ul>
   <li> 2. Intermediate Machine Learning
+  <ul> 
+    <li> Introduction (model selection) </li>
+    <li> Missing Values </li>
+    <li> Categorical variables </li>
+    <li> Pipelines </li>
+  </ul>
 </ul>
 
